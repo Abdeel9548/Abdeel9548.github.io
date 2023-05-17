@@ -23,7 +23,7 @@ mail($destinatario, Sasunto, Scarta);
 
 **20
 
-header('Location:mensaje-de-envio.html")
+header('contactanos.html")
 
 
 ?>
